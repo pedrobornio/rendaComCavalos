@@ -22,7 +22,7 @@ body{
   font-size: 1.6rem;
   color: var(--colorWhite);
   background-color: #000000;
-  background-image: url('/images/bg-mobile.png');
+  background-image: url('https://pedrobornio.github.io/rendaComCavalos/images/bg-mobile.png');
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -158,7 +158,7 @@ a{
 
 @media (min-width: 570px){
   body{
-    background-image: url('/images/bg-desktop.png');
+    background-image: url('https://pedrobornio.github.io/rendaComCavalos/images/bg-desktop.png');
   }
   .button{
     font-size: 2.4rem;
