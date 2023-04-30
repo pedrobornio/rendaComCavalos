@@ -22,5 +22,5 @@ function clicou(event) {
     <a href="https://pay.kiwify.com.br/dGF7c0o">
     <div class="button">QUERO APRENDER AGORA!</div>
     </a>`;
-  }, 360000);
+  }, 0);
 }
